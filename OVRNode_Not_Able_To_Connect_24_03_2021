@@ -1,0 +1,171 @@
+I (85339) lc709203: BAT OVER 50
+I (85339) LC: Temp BNO : 31 with & CHG 1
+I (90339) LC: Temp : 28 with
+I (90339) LC: RSOC : 53 with
+I (90339) LC: Voltage : 3.840000 with
+I (90339) lc709203: BAT OVER 50
+I (90339) LC: Temp BNO : 31 with & CHG 1
+I (95339) LC: Temp : 28 with
+I (95339) LC: RSOC : 53 with
+I (95339) LC: Voltage : 3.843000 with
+I (95339) lc709203: BAT OVER 50
+I (95339) LC: Temp BNO : 31 with & CHG 1
+I (100339) LC: Temp : 28 with
+I (100339) LC: RSOC : 53 with
+I (100339) LC: Voltage : 3.846000 with
+I (100339) lc709203: BAT OVER 50
+I (100339) LC: Temp BNO : 31 with & CHG 1
+lld_pdu_get_tx_flush_nb HCI packet count mismatch (1, 2)
+I (103149) GATT Server: ESP_GATTS_DISCONNECT_EVT, reason = 8
+I (103159) ble gap: gap event handler: 6
+I (103159) ble gap: advertising start successfully
+I (103309) GATT Server: ESP_GATTS_CONNECT_EVT, conn_id = 0
+I (103319) GATT Server: 5c e0 c5 cd a8 60
+I (105319) ble gap: gap event handler: 20
+I (105319) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 32,latency = 0, timeout = 960
+I (105339) LC: Temp : 28 with
+I (105339) LC: RSOC : 53 with
+I (105339) LC: Voltage : 3.840000 with
+I (105339) lc709203: BAT OVER 50
+I (105339) LC: Temp BNO : 30 with & CHG 1
+I (110339) LC: Temp : 28 with
+I (110339) LC: RSOC : 53 with
+I (110339) LC: Voltage : 3.843000 with
+I (110339) lc709203: BAT OVER 50
+I (110339) LC: Temp BNO : 30 with & CHG 1
+I (115339) LC: Temp : 28 with
+I (115339) LC: RSOC : 53 with
+I (115339) LC: Voltage : 3.843000 with
+I (115339) lc709203: BAT OVER 50
+I (115339) LC: Temp BNO : 30 with & CHG 1
+11:58
+39) LC: Voltage : 3.843000 with
+I (140339) lc709203: BAT OVER 50
+I (140339) LC: Temp BNO : 30 with & CHG 1
+I (145339) LC: Temp : 28 with
+I (145339) LC: RSOC : 53 with
+I (145339) LC: Voltage : 3.843000 with
+I (145349) lc709203: BAT OVER 50
+I (145349) LC: Temp BNO : 30 with & CHG 1
+I (150339) LC: Temp : 28 with
+I (150339) LC: RSOC : 53 with
+I (150339) LC: Voltage : 3.840000 with
+I (150339) lc709203: BAT OVER 50
+I (150339) LC: Temp BNO : 30 with & CHG 1
+lld_pdu_get_tx_flush_nb HCI packet count mismatch (1, 2)
+I (153069) GATT Server: ESP_GATTS_DISCONNECT_EVT, reason = 8
+I (153079) ble gap: gap event handler: 6
+I (153079) ble gap: advertising start successfully
+I (154639) GATT Server: ESP_GATTS_CONNECT_EVT, conn_id = 0
+I (154639) GATT Server: 5c e0 c5 cd a8 60
+I (154709) GATT Server: ESP_GATTS_MTU_EVT, MTU 517
+I (155339) LC: Temp : 28 with
+I (155339) LC: RSOC : 53 with
+I (155339) LC: Voltage : 3.840000 with
+I (155339) lc709203: BAT OVER 50
+I (155339) LC: Temp BNO : 30 with & CHG 1
+I (156639) ble gap: gap event handler: 20
+I (156639) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 32,latency = 0, timeout = 960
+I (160339) LC: Temp : 28 with
+I (160339) LC: RSOC : 53 with
+I (160339) LC: Voltage : 3.840000 with
+I (160339) lc709203: BAT OVER 50
+I (160339) LC: Temp BNO : 30 with & CHG 1
+12:00
+I (135339) LC: Temp BNO : 30 with & CHG 1
+I (140339) LC: Temp : 28 with
+I (140339) LC: RSOC : 53 with
+I (140339) LC: Voltage : 3.843000 with
+I (140339) lc709203: BAT OVER 50
+I (140339) LC: Temp BNO : 30 with & CHG 1
+I (145339) LC: Temp : 28 with
+I (145339) LC: RSOC : 53 with
+I (145339) LC: Voltage : 3.843000 with
+I (145349) lc709203: BAT OVER 50
+I (145349) LC: Temp BNO : 30 with & CHG 1
+I (150339) LC: Temp : 28 with
+I (150339) LC: RSOC : 53 with
+I (150339) LC: Voltage : 3.840000 with
+I (150339) lc709203: BAT OVER 50
+I (150339) LC: Temp BNO : 30 with & CHG 1
+lld_pdu_get_tx_flush_nb HCI packet count mismatch (1, 2)
+I (153069) GATT Server: ESP_GATTS_DISCONNECT_EVT, reason = 8
+I (153079) ble gap: gap event handler: 6
+I (153079) ble gap: advertising start successfully
+I (154639) GATT Server: ESP_GATTS_CONNECT_EVT, conn_id = 0
+I (154639) GATT Server: 5c e0 c5 cd a8 60
+I (154709) GATT Server: ESP_GATTS_MTU_EVT, MTU 517
+I (155339) LC: Temp : 28 with
+I (155339) LC: RSOC : 53 with
+I (155339) LC: Voltage : 3.840000 with
+I (155339) lc709203: BAT OVER 50
+I (155339) LC: Temp BNO : 30 with & CHG 1
+I (156639) ble gap: gap event handler: 20
+I (156639) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 32,latency = 0, timeout = 960
+I (160339) LC: Temp : 28 with
+I (160339) LC: RSOC : 53 with
+I (160339) LC: Voltage : 3.840000 with
+I (160339) lc709203: BAT OVER 50
+I (160339) LC: Temp BNO : 30 with & CHG 1
+I (163869) GATT Server: ESP_GATTS_DISCONNECT_EVT, reason = 31
+I (163889) ble gap: gap event handler: 6
+I (163889) ble gap: advertising start successfully
+I (165339) LC: Temp : 28 with
+I (165339) LC: RSOC : 53 with
+I (165339) LC: Voltage : 3.837000 with
+I (165339) lc709203: BAT OVER 50
+I (165339) LC: Temp BNO : 30 with & CHG 1
+I (170339) LC: Temp : 28 with
+I (170339) LC: RSOC : 53 with
+I (170339) LC: Voltage : 3.840000 with
+I (170339) lc709203: BAT OVER 50
+I (170339) LC: Temp BNO : 30 with & CHG 1
+I (175339) LC: Temp : 28 with
+I (175339) LC: RSOC : 53 with
+I (175339) LC: Voltage : 3.834000 with
+I (175339) lc709203: BAT OVER 50
+I (175339) LC: Temp BNO : 30 with & CHG 1
+I (180339) LC: Temp : 28 with
+I (180339) LC: RSOC : 53 with
+I (180339) LC: Voltage : 3.840000 with
+I (180339) lc709203: BAT OVER 50
+I (180339) LC: Temp BNO : 30 with & CHG 1
+I (185339) LC: Temp : 28 with
+I (185339) LC: RSOC : 53 with
+I (185339) LC: Voltage : 3.840000 with
+I (185339) lc709203: BAT OVER 50
+I (185339) LC: Temp BNO : 30 with & CHG 1
+I (190339) LC: Temp : 28 with
+I (190339) LC: RSOC : 53 with
+I (190339) LC: Voltage : 3.837000 with
+I (190339) lc709203: BAT OVER 50
+I (190339) LC: Temp BNO : 30 with & CHG 1
+I (195339) LC: Temp : 28 with
+I (195339) LC: RSOC : 53 with
+I (195339) LC: Voltage : 3.840000 with
+I (195339) lc709203: BAT OVER 50
+I (195339) LC: Temp BNO : 30 with & CHG 1
+I (196959) GATT Server: ESP_GATTS_CONNECT_EVT, conn_id = 0
+I (196959) GATT Server: 5c e0 c5 cd a8 60
+I (198959) ble gap: gap event handler: 20
+I (198959) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 32,latency = 0, timeout = 960
+I (200339) LC: Temp : 28 with
+I (200339) LC: RSOC : 53 with
+I (200339) LC: Voltage : 3.840000 with
+I (200339) lc709203: BAT OVER 50
+I (200339) LC: Temp BNO : 30 with & CHG 1
+I (205339) LC: Temp : 28 with
+I (205339) LC: RSOC : 53 with
+I (205339) LC: Voltage : 3.843000 with
+I (205339) lc709203: BAT OVER 50
+I (205339) LC: Temp BNO : 30 with & CHG 1
+I (210339) LC: Temp : 28 with
+I (210339) LC: RSOC : 53 with
+I (210339) LC: Voltage : 3.837000 with
+I (210339) lc709203: BAT OVER 50
+I (210339) LC: Temp BNO : 30 with & CHG 1
+I (215339) LC: Temp : 28 with
+I (215339) LC: RSOC : 53 with
+I (215339) LC: Voltage : 3.840000 with
+I (215339) lc709203: BAT OVER 50
+I (215339) LC: Temp BNO : 30 with & CHG 1

@@ -1,0 +1,52 @@
+E (300718) OTA_Test: final url https://drive.google.com/u/1/uc?id=1-yW7OrOp_Wu76I74fz_agoY6aqP-guVM&export=download
+E (300728) esp-tls: Failed to connnect to host (errno 118)
+E (300728) esp-tls: Failed to open new connection
+E (300738) TRANS_SSL: Failed to open a new connection
+E (300738) HTTP_CLIENT: Connection failed, sock < 0
+E (300748) esp_https_ota: Failed to open HTTP connection: ESP_ERR_HTTP_CONNECT
+E (300758) esp_https_ota: Failed to establish HTTP connection
+E (300758) OTA_Test: esp_https_ota_begin failed
+I (300768) OTA_Test: Invoking OTA
+E (300768) OTA_Test: final url https://drive.google.com/u/1/uc?id=1-yW7OrOp_Wu76I74fz_agoY6aqP-guVM&export=download
+E (300788) esp-tls: Failed to connnect to host (errno 118)
+E (300788) esp-tls: Failed to open new connection
+E (300798) TRANS_SSL: Failed to open a new connection
+E (300798) HTTP_CLIENT: Connection failed, sock < 0
+E (300808) esp_https_ota: Failed to open HTTP connection: ESP_ERR_HTTP_CONNECT
+E (300808) esp_https_ota: Failed to establish HTTP connection
+E (300818) OTA_Test: esp_https_ota_begin failed
+I (300828) OTA_Test: Invoking OTA
+E (300828) OTA_Test: final url https://drive.google.com/u/1/uc?id=1-yW7OrOp_Wu76I74fz_agoY6aqP-guVM&export=download
+E (300838) esp-tls: Failed to connnect to host (errno 118)
+E (300848) esp-tls: Failed to open new connection
+E (300848) TRANS_SSL: Failed to open a new connection
+E (300858) HTTP_CLIENT: Connection failed, sock < 0
+E (300858) esp_https_ota: Failed to open HTTP connection: ESP_ERR_HTTP_CONNECT
+E (300868) esp_https_ota: Failed to establish HTTP connection
+E (300878) OTA_Test: esp_https_ota_begin failed
+I (300878) OTA_Test: Invoking OTA
+E (300888) OTA_Test: final url https://drive.google.com/u/1/uc?id=1-yW7OrOp_Wu76I74fz_agoY6aqP-guVM&export=download
+E (300898) esp-tls: Failed to connnect to host (errno 118)
+E (300908) esp-tls: Failed to open new connection
+E (300908) TRANS_SSL: Failed to open a new connection
+E (300918) HTTP_CLIENT: Connection failed, sock < 0
+E (300918) esp_https_ota: Failed to open HTTP connection: ESP_ERR_HTTP_CONNECT
+E (300928) esp_https_ota: Failed to establish HTTP connection
+E (300938) OTA_Test: esp_https_ota_begin failed
+I (300938) OTA_Test: Invoking OTA
+E (300948) OTA_Test: final url https://drive.google.com/u/1/uc?id=1-yW7OrOp_Wu76I74fz_agoY6aqP-guVM&export=download
+E (300958) esp-tls: Failed to connnect to host (errno 118)
+E (300958) esp-tls: Failed to open new connection
+E (300968) TRANS_SSL: Failed to open a new connection
+E (300968) HTTP_CLIENT: Connection failed, sock < 0
+E (300978) esp_https_ota: Failed to open HTTP connection: ESP_ERR_HTTP_CONNECT
+E (300988) esp_https_ota: Failed to establish HTTP connection
+E (300988) OTA_Test: esp_https_ota_begin failed
+I (300998) OTA_Test: Invoking OTA
+E (300998) OTA_Test: final url https://drive.google.com/u/1/uc?id=1-yW7OrOp_Wu76I74fz_agoY6aqP-guVM&export=download
+E (301018) esp-tls: Failed to connnect to host (errno 118)
+E (301018) esp-tls: Failed to open new connection
+E (301028) TRANS_SSL: Failed to open a new connection
+E (301028) HTTP_CLIENT: Connection failed, sock < 0
+E (301038) esp_https_ota: Failed to open HTTP connection: ESP_ERR_HTTP_CONNECT
+E (30103

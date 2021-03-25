@@ -1,0 +1,62 @@
+(65349) LC: Voltage : 3.808000 with
+I (65349) lc709203: BAT Under 50
+I (65349) LC: Temp BNO : 28 with & CHG 1
+lld_pdu_get_tx_flush_nb HCI packet count mismatch (2, 3)
+I (70229) GATT Server: ESP_GATTS_DISCONNECT_EVT, reason = 19
+I (70249) ble gap: gap event handler: 6
+I (70249) ble gap: advertising start successfully
+I (70349) LC: Temp : 28 with
+I (70349) LC: RSOC : 43 with
+I (70349) LC: Voltage : 3.808000 with
+I (70349) lc709203: BAT Under 50
+I (70349) LC: Temp BNO : 28 with & CHG 1
+lld_pdu_get_tx_flush_nb HCI packet count mismatch (0, 1)
+I (70599) GATT Server: ESP_GATTS_CONNECT_EVT, conn_id = 0
+I (70599) GATT Server: 5c e0 c5 cd a8 60
+I (70599) GATT Server: ESP_GATTS_MTU_EVT, MTU 517
+I (72609) ble gap: gap event handler: 20
+I (72609) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 32,latency = 0, timeout = 960
+I (75349) LC: Temp : 28 with
+I (75349) LC: RSOC : 43 with
+I (75349) LC: Voltage : 3.808000 with
+I (75349) lc709203: BAT Under 50
+I (75349) LC: Temp BNO : 28 with & CHG 1
+I (80349) LC: Temp : 28 with
+I (80349) LC: RSOC : 43 with
+I (80349) LC: Voltage : 3.808000 with
+I (80349) lc709203: BAT Under 50
+I (80349) LC: Temp BNO : 28 with & CHG 1
+I (85349) LC: Temp : 28 with
+I (85349) LC: RSOC : 43 with
+I (85349) LC: Voltage : 3.805000 with
+I (85349) lc709203: BAT Under 50
+I (85349) LC: Temp BNO : 28 with & CHG 1
+I (90349) LC: Temp : 28 with
+I (90349) LC: RSOC : 43 with
+I (90349) LC: Voltage : 3.805000 with
+I (90349) lc709203: BAT Under 50
+I (90349) LC: Temp BNO : 28 with & CHG 1
+I (95349) LC: Temp : 28 with
+I (95349) LC: RSOC : 43 with
+I (95349) LC: Voltage : 3.805000 with
+I (95349) lc709203: BAT Under 50
+I (95349) LC: Temp BNO : 28 with & CHG 1
+I (100349) LC: Temp : 28 with
+I (100349) LC: RSOC : 43 with
+I (100349) LC: Voltage : 3.805000 with
+I (100349) lc709203: BAT Under 50
+I (100349) LC: Temp BNO : 28 with & CHG 1
+lld_pdu_get_tx_flush_nb HCI packet count mismatch (2, 3)
+I (100679) GATT Server: ESP_GATTS_DISCONNECT_EVT, reason = 19
+I (100689) ble gap: gap event handler: 6
+I (100689) ble gap: advertising start successfully
+I (100759) GATT Server: ESP_GATTS_CONNECT_EVT, conn_id = 0
+I (100769) GATT Server: 5c e0 c5 cd a8 60
+I (100769) GATT Server: ESP_GATTS_MTU_EVT, MTU 517
+I (102769) ble gap: gap event handler: 20
+I (102769) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 32,latency = 0, timeout = 960
+I (105349) LC: Temp : 28 with
+I (105349) LC: RSOC : 43 with
+I (105349) LC: Voltage : 3.805000 with
+I (105349) lc709203: BAT Under 50
+I (105349) LC: Temp BNO : 28 with & CHG 1

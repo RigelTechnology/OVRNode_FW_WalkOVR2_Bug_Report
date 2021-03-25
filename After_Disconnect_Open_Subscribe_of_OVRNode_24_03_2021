@@ -44,3 +44,181 @@ I (395579) BLE: notify euler
 I (395589) BLE: notify euler
 I (395599) BLE: notify euler
 I (395609) BLE: notify euler (edited) 
+
+-------------------------------------------
+
+(10339) lc709203: CHG TERM
+I (10339) LC: Temp BNO : 29 with & CHG 1
+I (14259) BUTTON: 3 Sec Ready
+I (14549) BUTTON: 3 Sec
+I (14549) BLE: notify OVR
+I (14549) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+ram_lld_pdu_tx_flush HCI packet count mismatch (3, 4)
+ets Jul 29 2019 12:21:46
+rst:0xc (SW_CPU_RESET),boot:0x33 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:6936
+load:0x40078000,len:14336
+load:0x40080400,len:3672
+entry 0x40080678
+I (27) boot: ESP-IDF v4.4-dev-4-g73db14240-dirty 2nd stage bootloader
+I (27) boot: compile time 17:06:06
+I (28) boot: chip revision: 3
+I (32) boot_comm: chip revision: 3, min. bootloader chip revision: 0
+I (39) boot.esp32: SPI Speed      : 40MHz
+I (44) boot.esp32: SPI Mode       : DIO
+I (48) boot.esp32: SPI Flash Size : 4MB
+I (53) boot: Enabling RNG early entropy source...
+I (58) boot: Partition Table:
+I (62) boot: ## Label            Usage          Type ST Offset   Length
+I (69) boot:  0 nvs              WiFi data        01 02 00009000 00006000
+I (76) boot:  1 otadata          OTA data         01 00 0000f000 00002000
+I (84) boot:  2 phy_init         RF data          01 01 00011000 00001000
+I (91) boot:  3 ota_0            OTA app          00 10 00020000 00190000
+I (99) boot:  4 ota_1            OTA app          00 11 001b0000 00190000
+I (106) boot: End of partition table
+I (111) boot_comm: chip revision: 3, min. application chip revision: 0
+I (118) esp_image: segment 0: paddr=00020020 vaddr=3f400020 size=33da4h (212388) map
+I (201) esp_image: segment 1: paddr=00053dcc vaddr=3ffbdb60 size=04e7ch ( 20092) load
+I (209) esp_image: segment 2: paddr=00058c50 vaddr=40080000 size=073c8h ( 29640) load
+I (221) esp_image: segment 3: paddr=00060020 vaddr=400d0020 size=e1724h (923428) map
+I (547) esp_image: segment 4: paddr=0014174c vaddr=400873c8 size=1168ch ( 71308) load
+I (575) esp_image: segment 5: paddr=00152de0 vaddr=400c0000 size=00064h (   100) load
+I (576) esp_image: segment 6: paddr=00152e4c vaddr=50000000 size=00004h (     4) load
+I (595) boot: Loaded app from partition at offset 0x20000
+I (595) boot: Disabling RNG early entropy source...
+I (607) cpu_start: Pro cpu up.
+I (607) cpu_start: Starting app cpu, entry point is 0x40081490
+I (593) cpu_start: App cpu up.
+I (623) cpu_start: Pro cpu start user code
+I (623) cpu_start: cpu freq: 160000000
+I (623) cpu_start: Application information:
+I (628) cpu_start: Project name:     OVRNode_WalkOVR
+I (633) cpu_start: App version:      3500cf0
+I (638) cpu_start: Compile time:     Mar 23 2021 01:16:46
+I (644) cpu_start: ELF file SHA256:  10fe2ef6e159bbfc...
+I (650) cpu_start: ESP-IDF:          v4.4-dev-4-g73db14240-dirty
+I (657) heap_init: Initializing. RAM available for dynamic allocation:
+I (664) heap_init: At 3FFAFF10 len 000000F0 (0 KiB): DRAM
+I (670) heap_init: At 3FFB6388 len 00001C78 (7 KiB): DRAM
+I (676) heap_init: At 3FFB9A20 len 00004108 (16 KiB): DRAM
+I (683) heap_init: At 3FFCA748 len 000158B8 (86 KiB): DRAM
+I (689) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM
+I (695) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM
+I (702) heap_init: At 40098A54 len 000075AC (29 KiB): IRAM
+I (709) spi_flash: detected chip: generic
+I (712) spi_flash: flash io: dio
+I (718) cpu_start: Starting scheduler on PRO CPU.
+I (0) cpu_start: Starting scheduler on APP CPU.
+E (763) SYSTEM: Value not set yet
+E (763) SYSTEM: Value not set yet
+size of data 188
+Hello world!
+event is alive
+event is init
+I (773) gpio: GPIO[15]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 1| Pulldown: 0| Intr:3
+event is alive
+E (773) bno055: bno055_read_register(): failed
+E (783) bno055: bno055_write_register(): failed
+bno055_open() returned 0xFFFFFFFF
+I (783) bno055: BNO055 detected
+bno055_set_axis_map_config(REMAP_CONFIG_P3) returned 0x00
+bno055_set_axis_map_sign(REMAP_SIGN_P3) returned 0x00
+bno055_get_axis_config returned 0x00
+map config: 0x21   | map sign: 0x02
+bno055_set_opmode(OPERATION_MODE_NDOF) returned 0x00
+bno055_get_axis_config returned 0x00
+map config: 0x21   | map sign: 0x02
+I (4713) lc709203: i2c_param_config() returned 0x00
+I (4713) lc709203: LC709203 detected
+W (4713) lc709203: Read Before Setup
+I (4713) lc709203: cmd_ICpowerMode :0x0001 with 0
+I (4723) lc709203: cmd_APA :0x000B with 0
+I (4723) lc709203: cmd_changeOftheParameter :0x0001 with 0
+I (4733) lc709203: cmd_RSOC :0x0064 with 0
+I (4733) lc709203: cmd_statusBit :0x0000 with 0
+I (4743) lc709203: cmd_cellTemperature :0x0BC4 with 0
+I (4753) lc709203: OP_MODE : 0
+I (4753) lc709203: APA_300mAH : 0
+I (4763) lc709203: BattProfile : 0
+I (4763) lc709203: LC709203F_TEMPERATURE_I2C : 0
+E (4773) lc709203: Read After Setup
+I (4773) lc709203: cmd_ICpowerMode :0x0001 with 0
+I (4773) lc709203: cmd_APA :0x000B with 0
+I (4773) lc709203: cmd_changeOftheParameter :0x0001 with 0
+I (4783) lc709203: cmd_RSOC :0x0064 with 0
+I (4783) lc709203: cmd_statusBit :0x0000 with 0
+I (4793) lc709203: cmd_cellTemperature :0x0BC4 with 0
+I (4793) LC: LC init  with 0
+I (4903) ble interface: Initializing Bluetooth Driver
+I (4903) BTDM_INIT: BT controller compile version [c85c59d]
+I (4903) system_api: Base MAC address is not set
+I (4903) system_api: read default base MAC address from EFUSE
+I (4913) phy_init: phy_version 4660,0162888,Dec 23 2020
+W (4913) phy_init: failed to load RF calibration data (0x1102), falling back to full calibration
+I (5423) GATT Server: Initializing Bluetooth Interface
+I (5423) GATT Server: Bluetooth Interface initialized successfully
+I (5423) ble interface: Bluetooth Driver Initialized
+I (5453) ble gap: gap event handler: 14
+I (5463) ble gap: gap event handler: 15
+I (5473) GATT Server: create attribute table successfully, the number handle = 19
+I (5473) GATT Server: create attribute table successfully, the number handle = 9
+I (5483) GATT Server: create attribute table successfully, the number handle = 13
+I (5483) ble gap: gap event handler: 0
+I (5493) ble gap: gap event handler: 1
+I (5493) GATT Server: SERVICE_START_EVT, status 0, service_handle 40
+I (5503) GATT Server: SERVICE_START_EVT, status 0, service_handle 59
+I (5513) GATT Server: SERVICE_START_EVT, status 0, service_handle 68
+I (5513) ble gap: gap event handler: 6
+I (5523) ble gap: advertising start successfully
+I (5643) GATT Server: ESP_GATTS_CONNECT_EVT, conn_id = 0
+I (5643) GATT Server: 5c e0 c5 cd a8 60
+I (5643) GATT Server: ESP_GATTS_MTU_EVT, MTU 517
+I (7653) ble gap: gap event handler: 20
+I (7653) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 32,latency = 0, timeout = 400
+I (10433) LC: Temp : 28 with
+I (10433) LC: RSOC : 100 with
+I (10433) LC: Voltage : 4.193000 with
+I (10433) lc709203: CHG TERM
+I (10433) LC: Temp BNO : 29 with & CHG 1
+I (15433) LC: Temp : 28 with
+I (15433) LC: RSOC : 100 with
+I (15433) LC: Voltage : 4.189000 with
+I (15433) lc709203: CHG TERM
+I (15433) LC: Temp BNO : 29 with & CHG 1
+I (20433) LC: Temp : 28 with
+I (20433) LC: RSOC : 99 with
+I (20433) LC: Voltage : 4.158000 with
+I (20433) lc709203: CHG TERM
+I (20433) LC: Temp BNO : 29 with & CHG 1
+I (25433) LC: Temp : 28 with
+I (25433) LC: RSOC : 99 with
+I (25433) LC: Voltage : 4.144000 with
+I (25433) lc709203: CHG TERM
+I (25433) LC: Temp BNO : 29 with & CHG 1
+I (30433) LC: Temp : 28 with
+I (30433) LC: RSOC : 99 with
+I (30433) LC: Voltage : 4.144000 with
+I (30443) lc709203: CHG TERM
+I (30443) LC: Temp BNO : 29 with & CHG 1
+I (35433) LC: Temp : 28 with
+I (35433) LC: RSOC : 99 with
+I (35433) LC: Voltage : 4.123000 with
+I (35433) lc709203: CHG TERM
+I (35433) LC: Temp BNO : 29 with & CHG 1
+lld_pdu_get_tx_flush_nb HCI packet count mismatch (2, 3)
+I (35753) GATT Server: ESP_GATTS_DISCONNECT_EVT, reason = 19
+I (35773) ble gap: gap event handler: 6
+I (35773) ble gap: advertising start successfully
+I (36123) GATT Server: ESP_GATTS_CONNECT_EVT, conn_id = 0
+I (36133) GATT Server: 5c e0 c5 cd a8 60
+I (36133) GATT Server: ESP_GATTS_MTU_EVT, MTU 517
+I (38133) ble gap: gap event handler: 20
+I (38133) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 32,latency = 0, timeout = 400
+I (40433) LC: Temp : 28 with
+I (40433) LC: RSOC : 99 with
+I (40433) LC: Voltage : 4.133000 with
+I (40433) lc709203: CHG TERM
+I (40433) LC: Temp BNO : 29 with & CHG 1

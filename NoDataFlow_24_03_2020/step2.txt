@@ -1,0 +1,45 @@
+ (16230) GATT Server: ESP_GATTS_MTU_EVT, MTU 517
+I (18230) ble gap: gap event handler: 20
+I (18230) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 30,latency = 0, timeout = 400
+I (18700) GATT Server: FTP READ
+I (18770) GATT Server: FTP READ
+I (18850) GATT Server: FTP READ
+I (18920) GATT Server: FTP READ
+I (18990) GATT Server: FTP READ
+I (19070) GATT Server: FTP READ
+I (19150) GATT Server: FTP READ
+I (19220) GATT Server: FTP READ
+I (19300) GATT Server: FTP READ
+I (19370) GATT Server: FTP READ
+I (19450) GATT Server: FTP READ
+I (19520) GATT Server: FTP READ
+I (19600) GATT Server: FTP WRITE 3
+I (19600) ble ftpnoti: notify enable
+I (19600) BLE: notify euler
+I (19600) BLE: notify event enable
+I (19610) BLE: notify euler
+I (19610) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (19620) BLE: notify euler
+I (19620) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (19630) BLE: notify euler
+I (19630) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (19630) BLE: notify euler
+I (19640) BLE: notify euler
+I (19640) BLE: notify euler
+I (19640) GATT Server: FTP WRITE 3
+I (19640) BLE: notify euler
+I (19640) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (19650) BLE: notify euler
+I (19660) BLE: notify euler
+I (19660) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (19660) BLE: notify euler
+I (19670) BLE: notify euler
+I (19670) BLE: notify euler
+I (19660) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (19680) BLE: notify euler
+I (19680) GATT Server: ESP_GATTS_CONF_EVT, status = 0
+I (19680) BLE: notify euler
+I (19690) BLE: notify euler
+I (19690) GATT Server: FTP WRITE 3
+I (19700) BLE: notify euler
+I (19700) BLE: notify euler

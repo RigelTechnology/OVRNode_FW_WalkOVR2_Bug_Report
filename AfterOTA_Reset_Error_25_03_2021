@@ -55,3 +55,31 @@ E (122486) TRANS_SSL: esp_tls_conn_read error, errno=No more processes
 W (122486) HTTP_CLIENT: esp_transport_read returned:-26880 and errno:11
 E (130856) TRANS_SSL: esp_tls_conn_read error, errno=No more processes
 W (130856) HTTP_CLIENT: esp_transport_read returned:-26880 and errno:11
+
+
+-----------------------------------------------------------------------------
+
+066) wifi:state: init -> auth (b0)
+I (57076) wifi:state: auth -> assoc (0)
+I (57076) wifi:state: assoc -> run (10)
+W (57096) wifi:<ba-add>idx:0 (ifx:0, 5c:63:bf:3b:82:5a), tid:0, ssn:0, winSize:64
+I (57126) wifi:connected with WalkOVR, aid = 2, channel 9, 40U, bssid = 5c:63:bf:3b:82:5a
+I (57126) wifi:security: WPA2-PSK, phy: bgn, rssi: -38
+I (57136) wifi:pm start, type: 1
+I (57176) wifi:AP's beacon interval = 102400 us, DTIM period = 1
+I (58686) esp_netif_handlers: sta ip: 192.168.1.101, mask: 255.255.255.0, gw: 192.168.1.1
+I (58686) wifi station: got ip:192.168.1.101
+I (58686) wifi station: connected to ap SSID:WalkOVR password:walkovr2016
+I (58796) OTA_Test: Invoking OTA
+E (58796) OTA_Test: final url https://drive.google.com/u/1/uc?id=1-yW7OrOp_Wu76I74fz_agoY6aqP-guVM&export=download
+Guru Meditation Error: Core  0 panic'ed (LoadProhibited). Exception was unhandled.
+Core  0 register dump:
+PC      : 0x4014752f  PS      : 0x00060230  A0      : 0x80147566  A1      : 0x3ffd0cd0
+A2      : 0x3ffd704c  A3      : 0x00000002  A4      : 0x3ffd7ebc  A5      : 0x00000000
+A6      : 0x3ffd0cf0  A7      : 0x00000001  A8      : 0x00080000  A9      : 0x3ffd0c80
+A10     : 0xffff8f00  A11     : 0x00000001  A12     : 0x3ffdfef0  A13     : 0x3ffd6f94
+A14     : 0x00000000  A15     : 0x3f42f395  SAR     : 0x0000001c  EXCCAUSE: 0x0000001c
+EXCVADDR: 0x0008009c  LBEG    : 0x4018cf30  LEND    : 0x4018cf3a  LCOUNT  : 0x00000000
+Backtrace:0x4014752c:0x3ffd0cd0 0x40147563:0x3ffd0cf0 0x401479fa:0x3ffd0d10 0x4018e198:0x3ffd0d30 0x4018ce60:0x3ffd0d50 0x401a8b57:0x3ffd0d70 0x40188e83:0x3ffd0d90 0x40145362:0x3ffd0dc0 0x4014558f:0x3ffd0f10 0x400da25f:0x3ffd0f50 0x400d86d9:0x3ffd10f0
+ELF file SHA256: dcdd20bf7f0f32ab
+Rebooting...

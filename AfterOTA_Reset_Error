@@ -1,0 +1,57 @@
+ (55336) LC: Temp : 28 with
+I (55336) LC: RSOC : 79 with
+I (55336) LC: Voltage : 3.980000 with
+E (55336) LC: lc_debug_st 1
+I (55336) lc709203: BAT OVER 75
+I (55346) LC: Temp BNO : 30 with & CHG 1
+I (56886) BLE: notify OVR
+I (56886) GATT Server: notify/indicate disable
+I (56886) BUTTON: 10 Sec
+W (56886) BT_APPL: bta_dm_disable BTA_DISABLE_DELAY set to 200 ms
+I (57206) wifi:wifi driver task: 3ffb50c4, prio:23, stack:6656, core=0
+I (57256) wifi:wifi firmware version: 6b2834e
+I (57266) wifi:wifi certification version: v7.0
+I (57266) wifi:config NVS flash: enabled
+I (57266) wifi:config nano formating: disabled
+I (57266) wifi:Init data frame dynamic rx buffer num: 32
+I (57276) wifi:Init management frame dynamic rx buffer num: 32
+I (57276) wifi:Init management short buffer num: 32
+I (57286) wifi:Init dynamic tx buffer num: 32
+I (57286) wifi:Init static rx buffer size: 1600
+I (57286) wifi:Init static rx buffer num: 10
+I (57296) wifi:Init dynamic rx buffer num: 32
+I (57296) wifi_init: rx ba win: 6
+I (57306) wifi_init: tcpip mbox: 32
+I (57306) wifi_init: udp mbox: 6
+I (57306) wifi_init: tcp mbox: 6
+I (57316) wifi_init: tcp tx win: 5744
+I (57316) wifi_init: tcp rx win: 5744
+I (57326) wifi_init: tcp mss: 1440
+I (57366) wifi:mode : sta (7c:9e:bd:d8:2a:84)
+I (57366) wifi:enable tsf
+I (57366) wifi station: wifi_init_sta finished.
+I (58346) wifi:new:<9,1>, old:<1,0>, ap:<255,255>, sta:<9,1>, prof:1
+I (59076) wifi:state: init -> auth (b0)
+I (59086) wifi:state: auth -> assoc (0)
+I (59086) wifi:state: assoc -> run (10)
+W (59106) wifi:<ba-add>idx:0 (ifx:0, 5c:63:bf:3b:82:5a), tid:0, ssn:0, winSize:64
+I (59126) wifi:connected with WalkOVR, aid = 2, channel 9, 40U, bssid = 5c:63:bf:3b:82:5a
+I (59126) wifi:security: WPA2-PSK, phy: bgn, rssi: -35
+I (59136) wifi:pm start, type: 1
+I (59176) wifi:AP's beacon interval = 102400 us, DTIM period = 1
+I (60696) esp_netif_handlers: sta ip: 192.168.1.101, mask: 255.255.255.0, gw: 192.168.1.1
+I (60696) wifi station: got ip:192.168.1.101
+I (60696) wifi station: connected to ap SSID:WalkOVR password:walkovr2016
+I (60806) OTA_Test: Invoking OTA
+E (60806) OTA_Test: final url https://drive.google.com/u/1/uc?id=1-yW7OrOp_Wu76I74fz_agoY6aqP-guVM&export=download
+I (77426) esp_https_ota: Starting OTA...
+I (77426) esp_https_ota: Writing to partition subtype 17 at offset 0x1b0000
+W (77426) OTA_Test: esp_https_ota_begin passed
+W (77446) OTA_Test: esp_https_ota_get_img_desc passed
+I (77446) OTA_Test: current version is 0d0e4e3
+I (77446) OTA_Test: new version is 0d0e4e3-dirty
+W (77456) OTA_Test: validate_image_header passed
+E (122486) TRANS_SSL: esp_tls_conn_read error, errno=No more processes
+W (122486) HTTP_CLIENT: esp_transport_read returned:-26880 and errno:11
+E (130856) TRANS_SSL: esp_tls_conn_read error, errno=No more processes
+W (130856) HTTP_CLIENT: esp_transport_read returned:-26880 and errno:11

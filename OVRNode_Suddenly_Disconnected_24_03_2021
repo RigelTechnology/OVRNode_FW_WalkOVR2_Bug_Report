@@ -1,0 +1,30 @@
+I (65339) lc709203: BAT Under 50
+I (65339) LC: Temp BNO : 29 with & CHG 1
+I (70339) LC: Temp : 28 with
+I (70339) LC: RSOC : 50 with
+I (70339) LC: Voltage : 3.831000 with
+I (70339) lc709203: BAT Under 50
+I (70339) LC: Temp BNO : 29 with & CHG 1
+I (71159) GATT Server: ESP_GATTS_CONNECT_EVT, conn_id = 0
+I (71159) GATT Server: 30 e3 7a 7d 8b 46
+I (71159) GATT Server: ESP_GATTS_MTU_EVT, MTU 517
+I (73169) ble gap: gap event handler: 20
+I (73169) ble gap: update connection params status = 16, min_int = 16, max_int = 32,conn_int = 32,latency = 0, timeout = 400
+I (75339) LC: Temp : 28 with
+I (75339) LC: RSOC : 50 with
+I (75339) LC: Voltage : 3.831000 with
+I (75339) lc709203: BAT Under 50
+I (75339) LC: Temp BNO : 29 with & CHG 1
+I (76349) GATT Server: ESP_GATTS_DISCONNECT_EVT, reason = 19
+I (76369) ble gap: gap event handler: 6
+I (76369) ble gap: advertising start successfully
+I (80339) LC: Temp : 28 with
+I (80339) LC: RSOC : 50 with
+I (80339) LC: Voltage : 3.828000 with
+I (80339) lc709203: BAT Under 50
+I (80339) LC: Temp BNO : 29 with & CHG 1
+I (85339) LC: Temp : 28 with
+I (85339) LC: RSOC : 50 with
+I (85339) LC: Voltage : 3.831000 with
+I (85339) lc709203: BAT Under 50
+I (85339) LC: Temp BNO : 29 with & CHG 1
